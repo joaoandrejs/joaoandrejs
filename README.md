@@ -1,4 +1,4 @@
-> **👋 Prazer, me chamo vortex ou para os mais intimos: João.**
+> **👋 Prazer, me chamo vortex ou caso preferir: João.**
 - Javascript; HTML e CSS
 - Aprendendo React e Python
 - Dono de uma bot para discord em Discord.js
