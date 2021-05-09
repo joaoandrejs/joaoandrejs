@@ -3,7 +3,7 @@
 - Aprendendo React e Python
 - Dono de uma bot para discord em Discord.js
 -  **Contatos:**
-> Discord: vortex#0007
+> Discord: **Sweet' vortex#2426**
 > 
 > Email: vortex.developer.contato@gmail.com
 >
