@@ -4,8 +4,8 @@
 -  **Contatos:**
 > Discord: **vortex.js#4442**
 > 
-> Email: vortex.developer.contato@gmail.com
->
+> [Email](vortex.developer.contato@gmail.com)
+> 
 > [Instagram](https://instagram.com/o.joao.andre)
 
 ![](https://i.imgur.com/MlNT2aZ.png)
