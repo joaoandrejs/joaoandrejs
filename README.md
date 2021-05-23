@@ -1,5 +1,5 @@
 > **👋 Prazer, me chamo vortex ou caso preferir: João.**
-- Javascript; HTML e CSS
+- Javascript, HTML e CSS
 
 -  **Contatos:**
 > Discord: **vortex.js#4442**
