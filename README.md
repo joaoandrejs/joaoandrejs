@@ -1,6 +1,6 @@
 ### **👋 Me chamo vortex caso preferir, João.**
 
-## Sou studante
+## Sou estudante
 - 🌱 Aperfeiçoando **JavaScript**
 
 ---
