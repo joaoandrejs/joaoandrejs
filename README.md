@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Sistine**
 
-- 🌱 I’m currently learning **React, Next**
+- 🌱 I’m currently learning **Python, React and Next**
 
-- 👨‍💻 All of my projects are available at [https://d4741238-97d3-4057-961f-9b168730ca2f-00-1q8lslb336br9.riker.replit.dev/](https://d4741238-97d3-4057-961f-9b168730ca2f-00-1q8lslb336br9.riker.replit.dev/)
+- 👨‍💻 All of my projects are available at [https](https)
 
 - 📫 How to reach me **jpumberto@gmail.com**
 
