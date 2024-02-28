@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋, Eu sou o João Paulo (Vortex)</h1>
-<h3 align="center">Desenvolvedor backend do 🇧🇷 Brasil, Rio de Janeiro</h3>
+<h1 align="center">Hello 👋, my name is João Paulo</h1>
+<h3 align="center">I'm Junior Developer in a learning process focused on systems development.</h3>
 
 - 🔭 I’m currently working on my pessoal projects
 
 - 🌱 I’m currently learning **Python, React and Next**
 
-- 👨‍💻 All of my projects are available at [https](https)
+- 👨‍💻 All of my projects are available at [https](https://vortexzjs.github.io)
 
 - 📫 How to reach me **jpumberto@gmail.com**
 
