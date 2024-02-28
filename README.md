@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, React and Next**
 
-- 👨‍💻 All of my projects are available at [https](https://vortexzjs.github.io)
+- 👨‍💻 All of my projects are available at [my portfolio](https://vortexzjs.github.io)
 
 - 📫 How to reach me **jpumberto@gmail.com**
 
