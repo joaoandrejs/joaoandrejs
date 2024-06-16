@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm João Paulo</h1>
-<h3 align="center">I'm a junior developer, currently studying Software Engineering at college.</h3>
+<h3 align="center">Currently studying Software Engineering at college.</h3>
 
 - 🔭 I’m currently learning **Python and React**
 - 🌱 I’m currently studying in **Anhanguera College**
