@@ -4,7 +4,10 @@
 - 🔭 I’m currently learning **Python and React**
 - 🌱 I’m currently studying in **Anhanguera College**
 - 👨‍💻 All of my projects are available at [my portfolio](https://vortexzjs.github.io)
-- 📫 How to reach me **jpumberto@gmail.com**
+- **📫 How to reach me:** <br/>
+contatojoaopauloandre@gmail.com <br/>
+[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-paulo-andr%C3%A9-68523619a/) 
+
 <br/>
 <div align="center">
 <img width="450em" alt="Status Github João" src="https://github-readme-stats.vercel.app/api?username=vortexzjs&show_icons=true&theme=radical" />
