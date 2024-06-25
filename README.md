@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [my portfolio](https://vortexzjs.github.io)
 - **📫 How to reach me:** <br/>
 contatojoaopauloandre@gmail.com <br/>
-[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-paulo-andr%C3%A9-68523619a/) 
+[Linkedin](https://www.linkedin.com/in/joaopauloandre/) 
 
 <br/>
 <div align="center">
