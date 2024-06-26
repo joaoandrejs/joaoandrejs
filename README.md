@@ -5,13 +5,34 @@
 - 🌱 I’m currently studying in **Anhanguera College**
 - 👨‍💻 All of my projects are available at [my portfolio](https://vortexzjs.github.io)
 - **📫 How to reach me:** <br/>
-contatojoaopauloandre@gmail.com <br/>
-[Linkedin](https://www.linkedin.com/in/joaopauloandre/) 
+<a href = "mailto:contatojoaopauloandre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=79ff97" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joaopauloandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=79ff97" target="_blank"></a> 
 
 <br/>
 <div align="center">
-<img width="450em" alt="Status Github João" src="https://github-readme-stats.vercel.app/api?username=vortexzjs&show_icons=true&theme=radical" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortexzjs&layout=compact&theme=radical"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=joaoandrejs&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=joaoandrejs&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoandrejs&show_icons=true" />
+</picture>
+  
+<picture width="380em">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoandrejs&layout=compact&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoandrejs&layout=compact&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoandrejss&layout=compact&show_icons=true" />
+</picture>
 </div><br/>
 
 <div align="center" style="display: inline_block; top: -300;"><br>
