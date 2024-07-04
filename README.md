@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Python and React**
 - 🌱 I’m currently studying in **Anhanguera College**
-- 👨‍💻 All of my projects are available at [my portfolio](https://vortexzjs.github.io)
+- 👨‍💻 All of my projects are available at [my portfolio](https://joaopaulo.vercel.app)
 - **📫 How to reach me:** <br/>
 <a href = "mailto:contatojoaopauloandre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=79ff97" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joaopauloandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=79ff97" target="_blank"></a> 
