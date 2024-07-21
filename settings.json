@@ -1,0 +1,39 @@
+{
+    "workbench.activityBar.location": "bottom",
+    "workbench.colorTheme": "Emerald",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.statusBar.visible": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "git.autofetch": true,
+    "editor.lineHeight": 1.8,
+    "editor.fontSize": 14,
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "cSpell.language": "en,pt,pt-BR,lorem",
+    "grunt.autoDetect": "on",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.profiles.linux": {
+        "zsh": {
+            "path": "/usr/bin/flatpak-spawn",
+            "icon": "terminal-zsh",
+            "args": [
+                "--host",
+                "--env=TERM=xterm-256color",
+                "zsh"
+            ]
+        }
+    },
+    "workbench.preferredHighContrastColorTheme": "Emerald Darker",
+    "workbench.sideBar.location": "right",
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+
+}
