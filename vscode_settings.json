@@ -1,6 +1,6 @@
 {
     "workbench.activityBar.location": "bottom",
-    "workbench.colorTheme": "Emerald",
+    "workbench.colorTheme": "vxcode-OLED",
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
     "editor.fontFamily": "JetBrains Mono",
@@ -31,9 +31,10 @@
             ]
         }
     },
-    "workbench.preferredHighContrastColorTheme": "Emerald Darker",
-    "workbench.sideBar.location": "right",
+    // "workbench.sideBar.location": "right",
     "breadcrumbs.enabled": false,
     "editor.stickyScroll.enabled": false,
-
+    "window.customTitleBarVisibility": "auto",
+    "git.confirmSync": false,
+    "vscord.app.name": "Visual Studio Code"
 }
